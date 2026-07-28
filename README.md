@@ -9,4 +9,4 @@ Available resources include:
 - Seasonal Templates
 
 Visit:
-https://theclubcards.com
+https://theclubcards.com/resoruces
