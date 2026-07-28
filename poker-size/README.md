@@ -1,3 +1,3 @@
 # Poker Size Templates
 
-Complete Poker Size playing cards template downloads.
+Resources for Poker size playing cards.
